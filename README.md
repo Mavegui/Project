@@ -37,6 +37,6 @@ Este projeto é uma aplicação web simples desenvolvida em PHP que permite ao u
 
 As imagens mostram o projeto em funcionamento.
 
-## Atiivdade proposta
+## Atividade proposta
 
 Arquivo PDF que descreve o trabalho desenvolvido para obtenção da nota na disciplina programação web.
