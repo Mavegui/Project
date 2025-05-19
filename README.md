@@ -37,11 +37,6 @@ Este projeto é uma aplicação web simples desenvolvida em PHP que permite ao u
 
 As imagens mostram o projeto em funcionamento.
 
-- Página inicial index.php com formulário centralizado solicitando dia e mês de nascimento, botão Descobrir destacado, interface limpa e amigável, cores suaves predominam, ambiente de navegação simples e acessível, tom neutro e informativo  
-![Formulário para inserir data de nascimento na página inicial, campos de seleção de dia e mês, botão Descobrir centralizado, interface clara e organizada, ambiente de navegação simples](assets/img/index.png)
+## Atiivdade proposta
 
-- Página de resultado exibindo signo do usuário Libriano, nome do signo em destaque, descrição breve, informações sobre elemento e planeta regente, layout limpo com cores suaves, ambiente acolhedor, tom positivo e informativo  
-![Resultado para usuário Libriano, nome do signo Libra em destaque, descrição Libra é equilibrado e busca harmonia, elemento Ar, planeta regente Vênus, interface clara e amigável](assets/img/show_zodiac_sign.png)
-
-- Página de resultado exibindo signo do usuário Capricórnio, nome do signo em destaque, descrição breve, informações sobre elemento e planeta regente, layout limpo com cores suaves, ambiente acolhedor, tom positivo e informativo  
-![Resultado para usuário Capricórnio, nome do signo Capricórnio em destaque, descrição Capricórnio é determinado e prático, elemento Terra, planeta regente Saturno, interface clara e amigável](assets/img/show_zodiac_sign02.png)
+Arquivo PDF que descreve o trabalho desenvolvido para obtenção da nota na disciplina programação web.
